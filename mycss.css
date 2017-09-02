@@ -2,8 +2,8 @@ body {
   padding-left: 11em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
-  color: purple;
-  background-color: #d8da3d }
+  color: #521434;
+  background-color: #F8BBDA }
 ul.navbar {
   list-style-type: none;
   padding: 0;
@@ -11,17 +11,17 @@ ul.navbar {
   position: absolute;
   top: 2em;
   left: 1em;
-  width: 9em }
+  width: 5em }
+p{
+   margin: 4;
+   padding: 2;
+   top: 3em;
+}
 h1 {
-  font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
-ul.navbar li {
-  background: white;
-  margin: 0.5em 0;
-  padding: 0.3em;
-  border-right: 1em solid black }
-ul.navbar a {
-  text-decoration: none }
+  font-family: Georgia, "Times New Roman",
+        Times, serif }
+
+
 a:link {
   color: blue }
 a:visited {
@@ -31,4 +31,5 @@ address {
   padding-top: 1em;
   border-top: thin dotted }
 
-<!--- editted from found css sheet at https://www.w3.org/Style/Examples/011/firstcss.en.html#external --->
+<!--- editted from found css sheet at https://www.w3.org/Style/Examples/011/firstcss.en.html#external 
+--->
