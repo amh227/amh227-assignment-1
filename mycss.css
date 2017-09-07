@@ -4,7 +4,20 @@ body {
         Times, serif;
   color: #521434;
   background-color: #F8BBDA }
-ul.navbar {
+
+.banner{
+	height: 100px; 
+	margin: 0px;
+	padding: 20px;
+	overflow: hidden;
+	background-image:url( "banner.jpg");
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100% 100%;
+	border: 5px solid black;
+}
+
+.navbar {
   list-style-type: none;
   padding: 0;
   margin: 0;
